@@ -1,0 +1,65 @@
+﻿Estado,Genero,Consumo Litros de Alcohol,Consumo de Mariguana,Consumo de Cocaina
+Aguascalientes,Hombres,12.116,4.5,1
+Baja California,Hombres,8.032,6.3,1
+Baja California Sur,Hombres,7.086,4.6,0.6
+Campeche,Hombres,11.87,1.7,1
+Chiapas,Hombres,4.08,1.2,0.4
+Chihuahua,Hombres,7.855,4.1,1.1
+Ciudad de Mexico,Hombres,7.294,4.3,1.3
+Coahuila,Hombres,11.607,5.7,1.7
+Colima,Hombres,9.946,2.9,0.5
+Durango,Hombres,9.848,3.5,1.4
+Estado de Mexico,Hombres,4.838,2.9,1.1
+Guanajuato,Hombres,8.327,2.4,1.2
+Guerrero,Hombres,6.929,3,2
+Hidalgo,Hombres,6.929,3.7,1
+Jalisco,Hombres,11.555,4.8,3.9
+Michoacan,Hombres,13.627,2.6,1.6
+Morelos,Hombres,7.418,3.9,0.2
+Nayarit,Hombres,7.833,3.8,1.2
+Nuevo Leon,Hombres,10.822,1.3,1
+Oaxaca,Hombres,4.707,2.5,0.3
+Puebla,Hombres,4.5,4.6,2.5
+Queretaro,Hombres,8.708,4.7,1.9
+Quintana Roo,Hombres,10.233,2.3,2.4
+San Luis Potosi,Hombres,9.233,4.4,0.4
+Sinaloa,Hombres,7.38,5,1.3
+Sonora,Hombres,5.843,3.5,1.5
+Tabasco,Hombres,9.471,1.9,2.8
+Tamaulipas,Hombres,6.136,2.8,0.5
+Tlaxcala,Hombres,4.702,2.4,0.3
+Veracruz,Hombres,9.414,2.9,1
+Yucatan,Hombres,7.259,2.9,0.9
+Zacatecas,Hombres,10.357,3.3,1.9
+Aguascalientes,Mujeres,4.24,1.7,0
+Baja California,Mujeres,1.908,1.3,0.2
+Baja California Sur,Mujeres,2.601,1.1,0
+Campeche,Mujeres,2.015,0.8,0.4
+Chiapas,Mujeres,0.718,0.5,0
+Chihuahua,Mujeres,3.666,1.6,1.1
+Ciudad de Mexico,Mujeres,2.296,0.9,0
+Coahuila,Mujeres,2.694,0.9,0.3
+Colima,Mujeres,2.614,1.7,0.1
+Durango,Mujeres,2.009,0.4,0.2
+Estado de Mexico,Mujeres,1.257,0.8,0.1
+Guanajuato,Mujeres,2.028,1.1,0.6
+Guerrero,Mujeres,1.469,0.9,0.2
+Hidalgo,Mujeres,1.31,0.7,0.1
+Jalisco,Mujeres,4.444,2.2,0
+Michoacan,Mujeres,1.464,1.3,0.3
+Morelos,Mujeres,1.779,1.3,0.4
+Nayarit,Mujeres,1.795,0.8,0.2
+Nuevo Leon,Mujeres,4.09,0.7,0.7
+Oaxaca,Mujeres,3.325,1.1,1.1
+Puebla,Mujeres,0.926,0.9,0.3
+Queretaro,Mujeres,1.565,0.8,0.2
+Quintana Roo,Mujeres,2.988,0.7,0.7
+San Luis Potosi,Mujeres,1.761,1.1,0.1
+Sinaloa,Mujeres,1.369,0.9,0.6
+Sonora,Mujeres,2.399,0.8,0
+Tabasco,Mujeres,1.574,0.6,0
+Tamaulipas,Mujeres,3.185,0.4,0.2
+Tlaxcala,Mujeres,1.213,1.3,0
+Veracruz,Mujeres,1.31,0.8,0
+Yucatan,Mujeres,2.936,0.8,0.2
+Zacatecas,Mujeres,1.39,0.2,0
